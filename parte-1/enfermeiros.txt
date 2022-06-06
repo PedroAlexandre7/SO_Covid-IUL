@@ -1,0 +1,15 @@
+12345:Ana Correia:CSLisboa:0:1
+98765:Joao Vieira:CSPorto:0:1
+54321:Joana Pereira:CSSantarem:0:1
+65432:Jorge Vaz:CSSetubal:0:1
+76543:Diana Almeida:CSLeiria:0:1
+87654:Diogo Cruz:CSBraga:0:1
+32198:Bernardo Pato:CSBraganca:0:1
+21654:Maria Mendes:CSBeja:0:1
+88888:Alice Silva:CSEvora:0:1
+96966:Gustavo Carvalho:CSFaro:0:1
+45678:António:CSBom Sucesso:0:0
+26626:Diogo Silva:CSAlverca:0:1
+67234:Gonçalo Silva:CSÉvora:0:1
+53221:António:CSAljubarrota:0:1
+73648:Fernando Rocha:CSAlgarve:0:0

@@ -1,0 +1,14 @@
+Ana Correia:12345:Francisco Pedro:10014:CSLisboa:2021-03-14
+Ana Correia:12345:Joana Dias:10005:CSLisboa:2021-03-14
+Ana Correia:12345:Joao Silva:10001:CSLisboa:2021-03-14
+Bernardo Pato:32198:Maria Sousa:10007:CSBraganca:2021-03-14
+Diana Almeida:76543:Duarte Oliveira:10011:CSLeiria:2021-03-14
+Diogo Cruz:87654:Maria Leite:10006:CSBraga:2021-03-14
+Joana Pereira:54321:Carlos Ferreira:10012:CSSantarem:2021-03-14
+Joana Pereira:54321:Pedro Santos:10002:CSSantarem:2021-03-14
+Joao Vieira:98765:Ana Silva:10004:CSPorto:2021-03-14
+Joao Vieira:98765:Carla Braga:10010:CSPorto:2021-03-14
+Joao Vieira:98765:Ema Aguiar:10013:CSPorto:2021-03-14
+Joao Vieira:98765:Joaquim Pedroso:10003:CSPorto:2021-03-14
+Jorge Vaz:65432:Antonio Passos:10009:CSSetubal:2021-03-14
+Jorge Vaz:65432:Mariana Andrade:10008:CSSetubal:2021-03-14

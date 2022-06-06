@@ -1,0 +1,3 @@
+ipcrm -a
+clear
+./servidor

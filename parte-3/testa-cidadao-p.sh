@@ -1,0 +1,1 @@
+./gera-dados-cidadao.sh | ./cidadao
